@@ -1,4 +1,4 @@
 # IDS-Project
-Introduction to Data Science Mini Project
+Introduction to Data Science Mini Profject
 hello
-hello from th
+from
